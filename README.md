@@ -1,1 +1,3 @@
 # kotivolib.js
+KotivoLib.js is a JavaScript library for server-side (NodeJS) services for controlling Kotivo Home automation systems.
+For more info, visit www.kotivo.fi for public API-documentation, great devices for controlling home temperature etc...
